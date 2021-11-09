@@ -1,0 +1,917 @@
+{
+    "hashes": [
+        292,
+        869,
+        903,
+        1461,
+        1822,
+        2715,
+        3656,
+        4502,
+        5087,
+        6538,
+        6797,
+        6799,
+        7136,
+        7920,
+        8938,
+        9206,
+        9469,
+        9769,
+        11334,
+        12412,
+        12801,
+        14292,
+        15549,
+        16940,
+        17788,
+        18182,
+        18769,
+        18770,
+        18865,
+        19210,
+        19858,
+        20546,
+        20675,
+        20807,
+        21297,
+        21301,
+        21835,
+        22488,
+        23334,
+        24050,
+        24067,
+        25058,
+        25260,
+        25770,
+        26446,
+        27190,
+        27656,
+        27788,
+        27962,
+        28535,
+        28753,
+        28754,
+        29454,
+        30319,
+        31039,
+        31501,
+        32432,
+        32763,
+        33783,
+        33989,
+        35255,
+        35283,
+        35894,
+        36221,
+        36287,
+        36858,
+        36877,
+        37504,
+        37671,
+        38129,
+        38190,
+        38918,
+        39814,
+        39861,
+        41081,
+        41263,
+        41866,
+        43316,
+        44316,
+        44540,
+        45272,
+        45593,
+        46277,
+        46965,
+        47065,
+        47507,
+        48778,
+        49515,
+        49820,
+        49900,
+        49929,
+        49978,
+        53114,
+        53456,
+        53615,
+        54413,
+        55247,
+        56295,
+        59220,
+        59252,
+        59556,
+        59606,
+        60405,
+        60735,
+        61320,
+        61653,
+        61834,
+        61981,
+        62744,
+        63194,
+        63251,
+        63799,
+        63861,
+        64265,
+        64842,
+        65502
+    ],
+    "hashes_ex": [
+        157,
+        158,
+        159,
+        161,
+        163,
+        165,
+        167,
+        168,
+        170,
+        171,
+        172,
+        186,
+        188,
+        190,
+        191
+    ],
+    "items": [
+        {
+            "baseType": "Cobalt Jewel",
+            "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+            "explicitMods": [
+                "+12% to Global Critical Strike Multiplier",
+                "7% increased maximum Life",
+                "7% increased Trap Throwing Speed",
+                "+11% to Cold and Lightning Resistances"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL2Jhc2ljaW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/510013aec2/basicint.png",
+            "id": "bdc451f3808fbdb84eadf10f98f082d346d91fd1eb712fc12c27bdd123374e9e",
+            "identified": true,
+            "ilvl": 82,
+            "implicitMods": [
+                "15% chance to Avoid being Chilled"
+            ],
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Soul Star",
+            "typeLine": "Cobalt Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 2,
+            "y": 0
+        },
+        {
+            "baseType": "Viridian Jewel",
+            "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+            "explicitMods": [
+                "7% increased maximum Life",
+                "+12% to Chaos Resistance",
+                "11% increased Area Damage",
+                "+18% to Critical Strike Multiplier while Dual Wielding"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL2Jhc2ljZGV4IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9ed22a2b94/basicdex.png",
+            "id": "5884f2517b1443abda87e3096131d7c803f2adc8824d80199b2eac9c1493c332",
+            "identified": true,
+            "ilvl": 84,
+            "implicitMods": [
+                "1% increased Movement Speed"
+            ],
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Carrion Sliver",
+            "typeLine": "Viridian Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 50,
+            "y": 0
+        },
+        {
+            "baseType": "Cobalt Jewel",
+            "corrupted": true,
+            "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+            "explicitMods": [
+                "+12 to Intelligence",
+                "15% increased Trap Damage",
+                "3% increased Attack Speed",
+                "6% increased maximum Life"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL2Jhc2ljaW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/510013aec2/basicint.png",
+            "id": "3c0d112b28356698beed272b9a8f727caa87f092d6a52410de55f6f5d0a9e66c",
+            "identified": true,
+            "ilvl": 72,
+            "implicitMods": [
+                "Corrupted Blood cannot be inflicted on you"
+            ],
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Foe Cut",
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "26",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Cobalt Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 4,
+            "y": 0
+        },
+        {
+            "baseType": "Crimson Jewel",
+            "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+            "explicitMods": [
+                "+15% to Critical Strike Multiplier with Elemental Skills",
+                "10% increased Area Damage",
+                "+17% to Critical Strike Multiplier while Dual Wielding"
+            ],
+            "fractured": true,
+            "fracturedMods": [
+                "7% increased maximum Life"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL2Jhc2ljc3RyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImZyYWN0dXJlZCI6dHJ1ZX1d/11becdd5a3/basicstr.png",
+            "id": "4ab5f35857cf5f8e190f7f4b5e906e508aedac53eaf5dbf1040a62872691a28b",
+            "identified": true,
+            "ilvl": 70,
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Pandemonium Prism",
+            "typeLine": "Crimson Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 3,
+            "y": 0
+        },
+        {
+            "baseType": "Medium Cluster Jewel",
+            "descrText": "Place into an allocated Medium or Large Jewel Socket on the Passive Skill Tree. Added passives do not interact with jewel radiuses. Right click to remove from the Socket.",
+            "enchantMods": [
+                "Adds 5 Passive Skills",
+                "1 Added Passive Skill is a Jewel Socket",
+                "Added Small Passive Skills grant: 12% increased Trap Damage\nAdded Small Passive Skills grant: 12% increased Mine Damage"
+            ],
+            "explicitMods": [
+                "Added Small Passive Skills also grant: 1% increased Trap and Mine Throwing Speed",
+                "1 Added Passive Skill is Guerilla Tactics",
+                "1 Added Passive Skill is Set and Forget"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL05ld0dlbUJhc2UyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/78f6bf8356/NewGemBase2.png",
+            "id": "c834adbdd7630f8bb30495e7efbfaea6a33cd5049d087046d104536a72b0d2d1",
+            "identified": true,
+            "ilvl": 70,
+            "implicitMods": [
+                "1% increased Flask Effect Duration"
+            ],
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Rapture Curio",
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "40",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Medium Cluster Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 45,
+            "y": 0
+        },
+        {
+            "baseType": "Crimson Jewel",
+            "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+            "explicitMods": [
+                "7% increased maximum Life",
+                "+15% to Cold Resistance",
+                "12% increased Area Damage",
+                "+17% to Critical Strike Multiplier while Dual Wielding"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL2Jhc2ljc3RyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/8129ab1f4d/basicstr.png",
+            "id": "b75a893493f28cd3f8356110a775ab63c748c4ea2cf6c5ff94b95279963d3fe0",
+            "identified": true,
+            "ilvl": 59,
+            "implicitMods": [
+                "1% increased Movement Speed"
+            ],
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Pandemonium Heart",
+            "typeLine": "Crimson Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 5,
+            "y": 0
+        },
+        {
+            "baseType": "Medium Cluster Jewel",
+            "descrText": "Place into an allocated Medium or Large Jewel Socket on the Passive Skill Tree. Added passives do not interact with jewel radiuses. Right click to remove from the Socket.",
+            "enchantMods": [
+                "Adds 5 Passive Skills",
+                "1 Added Passive Skill is a Jewel Socket",
+                "Added Small Passive Skills grant: 12% increased Trap Damage\nAdded Small Passive Skills grant: 12% increased Mine Damage"
+            ],
+            "explicitMods": [
+                "Added Small Passive Skills also grant: +3% to Chaos Resistance",
+                "1 Added Passive Skill is Guerilla Tactics",
+                "1 Added Passive Skill is Set and Forget"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL05ld0dlbUJhc2UyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/78f6bf8356/NewGemBase2.png",
+            "id": "7fe790b4299bb61c121f0e0f3c84a28daf81ae4648ddd98811c7ce9fb74e84ea",
+            "identified": true,
+            "ilvl": 55,
+            "implicitMods": [
+                "15% chance to Avoid being Poisoned"
+            ],
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Behemoth Stone",
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "40",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Medium Cluster Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 47,
+            "y": 0
+        },
+        {
+            "baseType": "Large Cluster Jewel",
+            "descrText": "Place into an allocated Large Jewel Socket on the Passive Skill Tree. Added passives do not interact with jewel radiuses. Right click to remove from the Socket.",
+            "enchantMods": [
+                "Adds 8 Passive Skills",
+                "2 Added Passive Skills are Jewel Sockets",
+                "Added Small Passive Skills grant: 12% increased Physical Damage"
+            ],
+            "explicitMods": [
+                "1 Added Passive Skill is Force Multiplier",
+                "1 Added Passive Skill is Iron Breaker",
+                "1 Added Passive Skill is Master the Fundamentals"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL05ld0dlbUJhc2UzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/db35e60885/NewGemBase3.png",
+            "id": "c3ecd38440ee951137e886dd407f8aa5381b5f40bafa8f981aa87ed0b7e95338",
+            "identified": true,
+            "ilvl": 63,
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Vivid Prism",
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "40",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Large Cluster Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 17,
+            "y": 0
+        },
+        {
+            "baseType": "Crimson Jewel",
+            "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+            "explicitMods": [
+                "+12% to Global Critical Strike Multiplier",
+                "7% increased maximum Life",
+                "2% increased Attack and Cast Speed",
+                "+16% to Critical Strike Multiplier while Dual Wielding"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL2Jhc2ljc3RyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/8129ab1f4d/basicstr.png",
+            "id": "837709f9e916a9c062368f2ae60d5952d5c707099bd446c86eb1e56f052066f8",
+            "identified": true,
+            "ilvl": 78,
+            "implicitMods": [
+                "1% increased Movement Speed"
+            ],
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Phoenix Prism",
+            "typeLine": "Crimson Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 48,
+            "y": 0
+        }
+    ],
+    "jewel_data": {
+        "17": {
+            "subgraph": {
+                "groups": {
+                    "expansion_17": {
+                        "nodes": [
+                            "165",
+                            "167",
+                            "157",
+                            "158",
+                            "159",
+                            "160",
+                            "161",
+                            "163",
+                            "1156"
+                        ],
+                        "orbits": [
+                            3
+                        ],
+                        "proxy": "48132",
+                        "x": 8807.45,
+                        "y": 129.815
+                    }
+                },
+                "nodes": {
+                    "1156": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/AltMasteryPhysicalDamage.png",
+                        "in": [],
+                        "isMastery": true,
+                        "name": "Physical Damage Mastery",
+                        "orbit": 0,
+                        "orbitIndex": 0,
+                        "out": [],
+                        "skill": "58618",
+                        "stats": []
+                    },
+                    "157": {
+                        "expansionJewel": {
+                            "index": 0,
+                            "parent": "32763",
+                            "proxy": "35926",
+                            "size": 1
+                        },
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
+                        "in": [
+                            "167"
+                        ],
+                        "isJewelSocket": true,
+                        "name": "Medium Jewel Socket",
+                        "orbit": 3,
+                        "orbitIndex": 1,
+                        "out": [],
+                        "skill": "6910",
+                        "stats": []
+                    },
+                    "158": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/PhysicalDamagenode2.png",
+                        "in": [
+                            "157"
+                        ],
+                        "name": "Physical Damage",
+                        "orbit": 3,
+                        "orbitIndex": 2,
+                        "out": [],
+                        "skill": "37171",
+                        "stats": [
+                            "12% increased Physical Damage"
+                        ]
+                    },
+                    "159": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/IncreasedPhysicalDamage.png",
+                        "in": [
+                            "158"
+                        ],
+                        "isNotable": true,
+                        "name": "Master the Fundamentals",
+                        "orbit": 3,
+                        "orbitIndex": 3,
+                        "out": [],
+                        "skill": "2796",
+                        "stats": [
+                            "+10% to all Elemental Resistances",
+                            "35% reduced Elemental Damage",
+                            "35% increased Physical Damage"
+                        ]
+                    },
+                    "160": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/PhysicalDamagenode2.png",
+                        "in": [
+                            "159"
+                        ],
+                        "name": "Physical Damage",
+                        "orbit": 3,
+                        "orbitIndex": 4,
+                        "out": [],
+                        "skill": "37171",
+                        "stats": [
+                            "12% increased Physical Damage"
+                        ]
+                    },
+                    "161": {
+                        "expansionJewel": {
+                            "index": 2,
+                            "parent": "32763",
+                            "proxy": "50179",
+                            "size": 1
+                        },
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
+                        "in": [
+                            "160"
+                        ],
+                        "isJewelSocket": true,
+                        "name": "Medium Jewel Socket",
+                        "orbit": 3,
+                        "orbitIndex": 5,
+                        "out": [],
+                        "skill": "33753",
+                        "stats": []
+                    },
+                    "163": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/IncreasedPhysicalDamage.png",
+                        "in": [
+                            "161"
+                        ],
+                        "isNotable": true,
+                        "name": "Force Multiplier",
+                        "orbit": 3,
+                        "orbitIndex": 7,
+                        "out": [],
+                        "skill": "3805",
+                        "stats": [
+                            "5% chance to deal Double Damage",
+                            "25% increased Physical Damage"
+                        ]
+                    },
+                    "165": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/PhysicalDamagenode2.png",
+                        "in": [
+                            "32763"
+                        ],
+                        "name": "Physical Damage",
+                        "orbit": 3,
+                        "orbitIndex": 9,
+                        "out": [],
+                        "skill": "37171",
+                        "stats": [
+                            "12% increased Physical Damage"
+                        ]
+                    },
+                    "167": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/IncreasedPhysicalDamage.png",
+                        "in": [
+                            "165"
+                        ],
+                        "isNotable": true,
+                        "name": "Iron Breaker",
+                        "orbit": 3,
+                        "orbitIndex": 11,
+                        "out": [],
+                        "reminderText": [
+                            "(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)"
+                        ],
+                        "skill": "28015",
+                        "stats": [
+                            "Overwhelm 10% Physical Damage Reduction",
+                            "35% increased Physical Damage"
+                        ]
+                    }
+                }
+            },
+            "type": "JewelPassiveTreeExpansionLarge"
+        },
+        "2": {
+            "type": "JewelInt"
+        },
+        "3": {
+            "type": "JewelStr"
+        },
+        "4": {
+            "type": "JewelInt"
+        },
+        "45": {
+            "subgraph": {
+                "groups": {
+                    "expansion_45": {
+                        "nodes": [
+                            "171",
+                            "172",
+                            "168",
+                            "169",
+                            "170",
+                            "1168"
+                        ],
+                        "orbits": [
+                            2
+                        ],
+                        "proxy": "35926",
+                        "x": 9213.95,
+                        "y": -574.265
+                    }
+                },
+                "nodes": {
+                    "1168": {
+                        "group": "expansion_45",
+                        "icon": "Art/2DArt/SkillIcons/passives/AltMasteryTraps.png",
+                        "in": [],
+                        "isMastery": true,
+                        "name": "Trap and Mine Damage Mastery",
+                        "orbit": 0,
+                        "orbitIndex": 0,
+                        "out": [],
+                        "skill": "45474",
+                        "stats": []
+                    },
+                    "168": {
+                        "expansionJewel": {
+                            "index": 0,
+                            "parent": "6910",
+                            "proxy": "36414",
+                            "size": 0
+                        },
+                        "group": "expansion_45",
+                        "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
+                        "in": [
+                            "172"
+                        ],
+                        "isJewelSocket": true,
+                        "name": "Small Jewel Socket",
+                        "orbit": 2,
+                        "orbitIndex": 1,
+                        "out": [],
+                        "skill": "18436",
+                        "stats": []
+                    },
+                    "169": {
+                        "group": "expansion_45",
+                        "icon": "Art/2DArt/SkillIcons/passives/TrapAndMineDmgNode.png",
+                        "in": [
+                            "168"
+                        ],
+                        "name": "Trap and Mine Damage",
+                        "orbit": 2,
+                        "orbitIndex": 3,
+                        "out": [],
+                        "skill": "48881",
+                        "stats": [
+                            "12% increased Trap Damage",
+                            "12% increased Mine Damage",
+                            "1% increased Trap and Mine Throwing Speed"
+                        ]
+                    },
+                    "170": {
+                        "group": "expansion_45",
+                        "icon": "Art/2DArt/SkillIcons/passives/TrapAndMineDmgNotable.png",
+                        "in": [
+                            "169"
+                        ],
+                        "isNotable": true,
+                        "name": "Guerilla Tactics",
+                        "orbit": 2,
+                        "orbitIndex": 5,
+                        "out": [],
+                        "reminderText": [
+                            "(Recently refers to the past 4 seconds)"
+                        ],
+                        "skill": "24645",
+                        "stats": [
+                            "20% increased Trap Damage",
+                            "20% increased Mine Damage",
+                            "10% increased Trap Throwing Speed",
+                            "10% increased Mine Throwing Speed",
+                            "5% increased Movement Speed if you've thrown a Trap or Mine Recently"
+                        ]
+                    },
+                    "171": {
+                        "group": "expansion_45",
+                        "icon": "Art/2DArt/SkillIcons/passives/TrapAndMineDmgNode.png",
+                        "in": [
+                            "6910"
+                        ],
+                        "name": "Trap and Mine Damage",
+                        "orbit": 2,
+                        "orbitIndex": 7,
+                        "out": [],
+                        "skill": "48881",
+                        "stats": [
+                            "12% increased Trap Damage",
+                            "12% increased Mine Damage",
+                            "1% increased Trap and Mine Throwing Speed"
+                        ]
+                    },
+                    "172": {
+                        "group": "expansion_45",
+                        "icon": "Art/2DArt/SkillIcons/passives/TrapAndMineDmgNotable.png",
+                        "in": [
+                            "171"
+                        ],
+                        "isNotable": true,
+                        "name": "Set and Forget",
+                        "orbit": 2,
+                        "orbitIndex": 9,
+                        "out": [],
+                        "skill": "29193",
+                        "stats": [
+                            "25% increased Trap Damage",
+                            "12% increased Area of Effect",
+                            "25% reduced Trap Duration",
+                            "40% increased Trap Trigger Area of Effect"
+                        ]
+                    }
+                }
+            },
+            "type": "JewelPassiveTreeExpansionMedium"
+        },
+        "47": {
+            "subgraph": {
+                "groups": {
+                    "expansion_47": {
+                        "nodes": [
+                            "191",
+                            "186",
+                            "188",
+                            "189",
+                            "190",
+                            "1186"
+                        ],
+                        "orbits": [
+                            2
+                        ],
+                        "proxy": "50179",
+                        "x": 9213.95,
+                        "y": 833.895
+                    }
+                },
+                "nodes": {
+                    "1186": {
+                        "group": "expansion_47",
+                        "icon": "Art/2DArt/SkillIcons/passives/AltMasteryTraps.png",
+                        "in": [],
+                        "isMastery": true,
+                        "name": "Trap and Mine Damage Mastery",
+                        "orbit": 0,
+                        "orbitIndex": 0,
+                        "out": [],
+                        "skill": "45474",
+                        "stats": []
+                    },
+                    "186": {
+                        "group": "expansion_47",
+                        "icon": "Art/2DArt/SkillIcons/passives/TrapAndMineDmgNotable.png",
+                        "in": [
+                            "191"
+                        ],
+                        "isNotable": true,
+                        "name": "Set and Forget",
+                        "orbit": 2,
+                        "orbitIndex": 1,
+                        "out": [],
+                        "skill": "29193",
+                        "stats": [
+                            "25% increased Trap Damage",
+                            "12% increased Area of Effect",
+                            "25% reduced Trap Duration",
+                            "40% increased Trap Trigger Area of Effect"
+                        ]
+                    },
+                    "188": {
+                        "expansionJewel": {
+                            "index": 0,
+                            "parent": "33753",
+                            "proxy": "56439",
+                            "size": 0
+                        },
+                        "group": "expansion_47",
+                        "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
+                        "in": [
+                            "186"
+                        ],
+                        "isJewelSocket": true,
+                        "name": "Small Jewel Socket",
+                        "orbit": 2,
+                        "orbitIndex": 5,
+                        "out": [],
+                        "skill": "22748",
+                        "stats": []
+                    },
+                    "189": {
+                        "group": "expansion_47",
+                        "icon": "Art/2DArt/SkillIcons/passives/TrapAndMineDmgNode.png",
+                        "in": [
+                            "188"
+                        ],
+                        "name": "Trap and Mine Damage",
+                        "orbit": 2,
+                        "orbitIndex": 7,
+                        "out": [],
+                        "skill": "48881",
+                        "stats": [
+                            "12% increased Trap Damage",
+                            "12% increased Mine Damage",
+                            "+3% to Chaos Resistance"
+                        ]
+                    },
+                    "190": {
+                        "group": "expansion_47",
+                        "icon": "Art/2DArt/SkillIcons/passives/TrapAndMineDmgNotable.png",
+                        "in": [
+                            "189"
+                        ],
+                        "isNotable": true,
+                        "name": "Guerilla Tactics",
+                        "orbit": 2,
+                        "orbitIndex": 9,
+                        "out": [],
+                        "reminderText": [
+                            "(Recently refers to the past 4 seconds)"
+                        ],
+                        "skill": "24645",
+                        "stats": [
+                            "20% increased Trap Damage",
+                            "20% increased Mine Damage",
+                            "10% increased Trap Throwing Speed",
+                            "10% increased Mine Throwing Speed",
+                            "5% increased Movement Speed if you've thrown a Trap or Mine Recently"
+                        ]
+                    },
+                    "191": {
+                        "group": "expansion_47",
+                        "icon": "Art/2DArt/SkillIcons/passives/TrapAndMineDmgNode.png",
+                        "in": [
+                            "33753"
+                        ],
+                        "name": "Trap and Mine Damage",
+                        "orbit": 2,
+                        "orbitIndex": 11,
+                        "out": [],
+                        "skill": "48881",
+                        "stats": [
+                            "12% increased Trap Damage",
+                            "12% increased Mine Damage",
+                            "+3% to Chaos Resistance"
+                        ]
+                    }
+                }
+            },
+            "type": "JewelPassiveTreeExpansionMedium"
+        },
+        "48": {
+            "type": "JewelStr"
+        },
+        "5": {
+            "type": "JewelStr"
+        },
+        "50": {
+            "type": "JewelDex"
+        }
+    },
+    "mastery_effects": [
+        "4219273508",
+        "3122310428",
+        "195819893",
+        "901633165",
+        "2753479324",
+        "4032723263",
+        "543862268",
+        "2253377903",
+        "2113884355"
+    ]
+}

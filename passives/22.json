@@ -1,0 +1,833 @@
+{
+    "hashes": [
+        292,
+        869,
+        1215,
+        1427,
+        1461,
+        1767,
+        1822,
+        3656,
+        4502,
+        5087,
+        6538,
+        6797,
+        6799,
+        7112,
+        7136,
+        8938,
+        9206,
+        9469,
+        9769,
+        10429,
+        11334,
+        12412,
+        12801,
+        13885,
+        15549,
+        16940,
+        17906,
+        18182,
+        18707,
+        18769,
+        18770,
+        18865,
+        19210,
+        19725,
+        19858,
+        20546,
+        20675,
+        20807,
+        21297,
+        21301,
+        22488,
+        23334,
+        24050,
+        24067,
+        25058,
+        25067,
+        25260,
+        25281,
+        25770,
+        26446,
+        27190,
+        27788,
+        28012,
+        28535,
+        28753,
+        28754,
+        29454,
+        30319,
+        31039,
+        32176,
+        32432,
+        32763,
+        33783,
+        33989,
+        35255,
+        35894,
+        36221,
+        36287,
+        36858,
+        36877,
+        37671,
+        38129,
+        38190,
+        38918,
+        39814,
+        39861,
+        40362,
+        41081,
+        41989,
+        43316,
+        44540,
+        45593,
+        46965,
+        47065,
+        47362,
+        47507,
+        49515,
+        49929,
+        49978,
+        51235,
+        53114,
+        53213,
+        53456,
+        53615,
+        54413,
+        55247,
+        59220,
+        59252,
+        59556,
+        59606,
+        60259,
+        60405,
+        61320,
+        61653,
+        61834,
+        61981,
+        62744,
+        63194,
+        63251,
+        63799,
+        63861,
+        64265,
+        64842,
+        65502
+    ],
+    "hashes_ex": [
+        157,
+        159,
+        160,
+        161,
+        163,
+        165,
+        167,
+        168,
+        170,
+        171,
+        173,
+        187,
+        188,
+        190,
+        191
+    ],
+    "items": [
+        {
+            "baseType": "Cobalt Jewel",
+            "corrupted": true,
+            "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+            "explicitMods": [
+                "16% increased Trap Damage",
+                "6% increased Projectile Speed",
+                "24% increased Minion Accuracy Rating"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL2Jhc2ljaW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/510013aec2/basicint.png",
+            "id": "1654676b57a86546e440ba87e431f14b437dc15cf4bd68a529ca8f9497b3dcf1",
+            "identified": true,
+            "ilvl": 71,
+            "implicitMods": [
+                "4% increased Area of Effect",
+                "Corrupted Blood cannot be inflicted on you"
+            ],
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Pandemonium Prism",
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "26",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Cobalt Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 48,
+            "y": 0
+        },
+        {
+            "baseType": "Crimson Jewel",
+            "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+            "explicitMods": [
+                "Only affects Passives in Large Ring",
+                "Passives in Radius can be Allocated without being connected to your tree",
+                "-14% to all Elemental Resistances"
+            ],
+            "flavourText": [
+                "Though we cannot touch; one thought, one wish, through centuries alone in darkness."
+            ],
+            "frameType": 3,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0Nvbm5lY3RlZEpld2VsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1d2c1f698a/ConnectedJewel.png",
+            "id": "d46c0f9a0e8e827b34c75a15c330504e60f4a8b015306b65334188f83cdfa6d2",
+            "identified": true,
+            "ilvl": 86,
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Thread of Hope",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Radius",
+                    "values": [
+                        [
+                            "Variable",
+                            1
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Crimson Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 5,
+            "y": 0
+        },
+        {
+            "baseType": "Medium Cluster Jewel",
+            "descrText": "Place into an allocated Medium or Large Jewel Socket on the Passive Skill Tree. Added passives do not interact with jewel radiuses. Right click to remove from the Socket.",
+            "enchantMods": [
+                "Adds 4 Passive Skills",
+                "1 Added Passive Skill is a Jewel Socket",
+                "Added Small Passive Skills grant: 15% increased Critical Strike Chance"
+            ],
+            "explicitMods": [
+                "Added Small Passive Skills also grant: +2 to Strength",
+                "1 Added Passive Skill is Basics of Pain",
+                "1 Added Passive Skill is Pressure Points"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL05ld0dlbUJhc2UyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/78f6bf8356/NewGemBase2.png",
+            "id": "49b7f17412818a459a670ca04c07cdd4907e45de5d314f1e4307f824a5dc048b",
+            "identified": true,
+            "ilvl": 52,
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Sol Splinter",
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "40",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Medium Cluster Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 47,
+            "y": 0
+        },
+        {
+            "baseType": "Crimson Jewel",
+            "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+            "explicitMods": [
+                "7% increased maximum Life",
+                "+13% to Chaos Resistance",
+                "+10% to Fire and Lightning Resistances"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL2Jhc2ljc3RyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/8129ab1f4d/basicstr.png",
+            "id": "3fdd1ee8f64ca9cad2ba75aa3a3ebbfae6f62e2b03d47e34061740e69157287c",
+            "identified": true,
+            "ilvl": 65,
+            "implicitMods": [
+                "1% increased Flask Effect Duration"
+            ],
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Chimeric Ember",
+            "typeLine": "Crimson Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 50,
+            "y": 0
+        },
+        {
+            "baseType": "Medium Cluster Jewel",
+            "descrText": "Place into an allocated Medium or Large Jewel Socket on the Passive Skill Tree. Added passives do not interact with jewel radiuses. Right click to remove from the Socket.",
+            "enchantMods": [
+                "Adds 4 Passive Skills",
+                "1 Added Passive Skill is a Jewel Socket",
+                "Added Small Passive Skills grant: 15% increased Critical Strike Chance"
+            ],
+            "explicitMods": [
+                "Added Small Passive Skills also grant: +2 to Strength",
+                "1 Added Passive Skill is Basics of Pain",
+                "1 Added Passive Skill is Pressure Points"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL05ld0dlbUJhc2UyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/78f6bf8356/NewGemBase2.png",
+            "id": "c55809a9b915bcaf135a1e120e6a660a8b0729e6f9a2be67434a83c5dd951639",
+            "identified": true,
+            "ilvl": 62,
+            "implicitMods": [
+                "1% increased Flask Effect Duration"
+            ],
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Damnation Ruin",
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "40",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Medium Cluster Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 45,
+            "y": 0
+        },
+        {
+            "baseType": "Large Cluster Jewel",
+            "descrText": "Place into an allocated Large Jewel Socket on the Passive Skill Tree. Added passives do not interact with jewel radiuses. Right click to remove from the Socket.",
+            "enchantMods": [
+                "Adds 8 Passive Skills",
+                "2 Added Passive Skills are Jewel Sockets",
+                "Added Small Passive Skills grant: 12% increased Physical Damage"
+            ],
+            "explicitMods": [
+                "Added Small Passive Skills also grant: 4% increased Mana Regeneration Rate",
+                "1 Added Passive Skill is Force Multiplier",
+                "1 Added Passive Skill is Iron Breaker",
+                "1 Added Passive Skill is Master the Fundamentals"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL05ld0dlbUJhc2UzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/db35e60885/NewGemBase3.png",
+            "id": "057bcb66016e9a66592ca415d952dc46a58f47ef27232dd1417fc699fd5a5af0",
+            "identified": true,
+            "ilvl": 51,
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Apocalypse Splinter",
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "40",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Large Cluster Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 17,
+            "y": 0
+        },
+        {
+            "baseType": "Prismatic Jewel",
+            "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+            "explicitMods": [
+                "4% increased maximum Energy Shield",
+                "4% increased maximum Life",
+                "5% increased maximum Mana",
+                "77% increased Critical Strike Chance while affected by Wrath",
+                "Gain 10% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity",
+                "12% chance to deal Double Damage while using Pride"
+            ],
+            "flavourText": [
+                "One by one, they stood their ground against a creature \r",
+                "they had no hope of understanding, let alone defeating,\r",
+                "and one by one, they became a part of it."
+            ],
+            "frameType": 3,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0VsZGVySmV3ZWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/278c673716/ElderJewel.png",
+            "id": "ed97ad536a6379f0d390be79dc4d022c21f74e20c4bcb5367a8f5443f9d06f48",
+            "identified": true,
+            "ilvl": 86,
+            "inventoryId": "PassiveJewels",
+            "league": "Scourge",
+            "name": "Watcher's Eye",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Limited to",
+                    "values": [
+                        [
+                            "1",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Prismatic Jewel",
+            "verified": false,
+            "w": 1,
+            "x": 2,
+            "y": 0
+        }
+    ],
+    "jewel_data": {
+        "17": {
+            "subgraph": {
+                "groups": {
+                    "expansion_17": {
+                        "nodes": [
+                            "165",
+                            "167",
+                            "157",
+                            "158",
+                            "159",
+                            "160",
+                            "161",
+                            "163",
+                            "1156"
+                        ],
+                        "orbits": [
+                            3
+                        ],
+                        "proxy": "48132",
+                        "x": 8807.45,
+                        "y": 129.815
+                    }
+                },
+                "nodes": {
+                    "1156": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/AltMasteryPhysicalDamage.png",
+                        "in": [],
+                        "isMastery": true,
+                        "name": "Physical Damage Mastery",
+                        "orbit": 0,
+                        "orbitIndex": 0,
+                        "out": [],
+                        "skill": "58618",
+                        "stats": []
+                    },
+                    "157": {
+                        "expansionJewel": {
+                            "index": 0,
+                            "parent": "32763",
+                            "proxy": "35926",
+                            "size": 1
+                        },
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
+                        "in": [
+                            "167"
+                        ],
+                        "isJewelSocket": true,
+                        "name": "Medium Jewel Socket",
+                        "orbit": 3,
+                        "orbitIndex": 1,
+                        "out": [],
+                        "skill": "6910",
+                        "stats": []
+                    },
+                    "158": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/PhysicalDamagenode2.png",
+                        "in": [
+                            "157"
+                        ],
+                        "name": "Physical Damage",
+                        "orbit": 3,
+                        "orbitIndex": 2,
+                        "out": [],
+                        "skill": "37171",
+                        "stats": [
+                            "4% increased Mana Regeneration Rate",
+                            "12% increased Physical Damage"
+                        ]
+                    },
+                    "159": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/IncreasedPhysicalDamage.png",
+                        "in": [
+                            "158"
+                        ],
+                        "isNotable": true,
+                        "name": "Master the Fundamentals",
+                        "orbit": 3,
+                        "orbitIndex": 3,
+                        "out": [],
+                        "skill": "2796",
+                        "stats": [
+                            "+10% to all Elemental Resistances",
+                            "35% reduced Elemental Damage",
+                            "35% increased Physical Damage"
+                        ]
+                    },
+                    "160": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/PhysicalDamagenode2.png",
+                        "in": [
+                            "159"
+                        ],
+                        "name": "Physical Damage",
+                        "orbit": 3,
+                        "orbitIndex": 4,
+                        "out": [],
+                        "skill": "37171",
+                        "stats": [
+                            "4% increased Mana Regeneration Rate",
+                            "12% increased Physical Damage"
+                        ]
+                    },
+                    "161": {
+                        "expansionJewel": {
+                            "index": 2,
+                            "parent": "32763",
+                            "proxy": "50179",
+                            "size": 1
+                        },
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
+                        "in": [
+                            "160"
+                        ],
+                        "isJewelSocket": true,
+                        "name": "Medium Jewel Socket",
+                        "orbit": 3,
+                        "orbitIndex": 5,
+                        "out": [],
+                        "skill": "33753",
+                        "stats": []
+                    },
+                    "163": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/IncreasedPhysicalDamage.png",
+                        "in": [
+                            "161"
+                        ],
+                        "isNotable": true,
+                        "name": "Force Multiplier",
+                        "orbit": 3,
+                        "orbitIndex": 7,
+                        "out": [],
+                        "skill": "3805",
+                        "stats": [
+                            "5% chance to deal Double Damage",
+                            "25% increased Physical Damage"
+                        ]
+                    },
+                    "165": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/PhysicalDamagenode2.png",
+                        "in": [
+                            "32763"
+                        ],
+                        "name": "Physical Damage",
+                        "orbit": 3,
+                        "orbitIndex": 9,
+                        "out": [],
+                        "skill": "37171",
+                        "stats": [
+                            "4% increased Mana Regeneration Rate",
+                            "12% increased Physical Damage"
+                        ]
+                    },
+                    "167": {
+                        "group": "expansion_17",
+                        "icon": "Art/2DArt/SkillIcons/passives/IncreasedPhysicalDamage.png",
+                        "in": [
+                            "165"
+                        ],
+                        "isNotable": true,
+                        "name": "Iron Breaker",
+                        "orbit": 3,
+                        "orbitIndex": 11,
+                        "out": [],
+                        "reminderText": [
+                            "(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)"
+                        ],
+                        "skill": "28015",
+                        "stats": [
+                            "Overwhelm 10% Physical Damage Reduction",
+                            "35% increased Physical Damage"
+                        ]
+                    }
+                }
+            },
+            "type": "JewelPassiveTreeExpansionLarge"
+        },
+        "2": {
+            "type": "JewelPrismatic"
+        },
+        "45": {
+            "subgraph": {
+                "groups": {
+                    "expansion_45": {
+                        "nodes": [
+                            "171",
+                            "173",
+                            "168",
+                            "170",
+                            "1168"
+                        ],
+                        "orbits": [
+                            2
+                        ],
+                        "proxy": "35926",
+                        "x": 9213.95,
+                        "y": -574.265
+                    }
+                },
+                "nodes": {
+                    "1168": {
+                        "group": "expansion_45",
+                        "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupCrit.png",
+                        "in": [],
+                        "isMastery": true,
+                        "name": "Critical Chance Mastery",
+                        "orbit": 0,
+                        "orbitIndex": 0,
+                        "out": [],
+                        "skill": "2510",
+                        "stats": []
+                    },
+                    "168": {
+                        "expansionJewel": {
+                            "index": 0,
+                            "parent": "6910",
+                            "proxy": "36414",
+                            "size": 0
+                        },
+                        "group": "expansion_45",
+                        "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
+                        "in": [
+                            "173"
+                        ],
+                        "isJewelSocket": true,
+                        "name": "Small Jewel Socket",
+                        "orbit": 2,
+                        "orbitIndex": 1,
+                        "out": [],
+                        "skill": "18436",
+                        "stats": []
+                    },
+                    "170": {
+                        "group": "expansion_45",
+                        "icon": "Art/2DArt/SkillIcons/passives/IncreaseCritChanceNotable.png",
+                        "in": [
+                            "168"
+                        ],
+                        "isNotable": true,
+                        "name": "Basics of Pain",
+                        "orbit": 2,
+                        "orbitIndex": 4,
+                        "out": [],
+                        "skill": "44544",
+                        "stats": [
+                            "20% increased Damage",
+                            "30% increased Critical Strike Chance"
+                        ]
+                    },
+                    "171": {
+                        "group": "expansion_45",
+                        "icon": "Art/2DArt/SkillIcons/passives/IncreaseCritChanceNode.png",
+                        "in": [
+                            "6910"
+                        ],
+                        "name": "Critical Chance",
+                        "orbit": 2,
+                        "orbitIndex": 7,
+                        "out": [],
+                        "skill": "10695",
+                        "stats": [
+                            "+2 to Strength",
+                            "15% increased Critical Strike Chance"
+                        ]
+                    },
+                    "173": {
+                        "group": "expansion_45",
+                        "icon": "Art/2DArt/SkillIcons/passives/IncreaseCritChanceNotable.png",
+                        "in": [
+                            "171"
+                        ],
+                        "isNotable": true,
+                        "name": "Pressure Points",
+                        "orbit": 2,
+                        "orbitIndex": 10,
+                        "out": [],
+                        "skill": "38633",
+                        "stats": [
+                            "Your Critical Strikes have a 5% chance to deal Double Damage",
+                            "30% increased Critical Strike Chance"
+                        ]
+                    }
+                }
+            },
+            "type": "JewelPassiveTreeExpansionMedium"
+        },
+        "47": {
+            "subgraph": {
+                "groups": {
+                    "expansion_47": {
+                        "nodes": [
+                            "191",
+                            "187",
+                            "188",
+                            "190",
+                            "1186"
+                        ],
+                        "orbits": [
+                            2
+                        ],
+                        "proxy": "50179",
+                        "x": 9213.95,
+                        "y": 833.895
+                    }
+                },
+                "nodes": {
+                    "1186": {
+                        "group": "expansion_47",
+                        "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupCrit.png",
+                        "in": [],
+                        "isMastery": true,
+                        "name": "Critical Chance Mastery",
+                        "orbit": 0,
+                        "orbitIndex": 0,
+                        "out": [],
+                        "skill": "2510",
+                        "stats": []
+                    },
+                    "187": {
+                        "group": "expansion_47",
+                        "icon": "Art/2DArt/SkillIcons/passives/IncreaseCritChanceNotable.png",
+                        "in": [
+                            "191"
+                        ],
+                        "isNotable": true,
+                        "name": "Pressure Points",
+                        "orbit": 2,
+                        "orbitIndex": 2,
+                        "out": [],
+                        "skill": "38633",
+                        "stats": [
+                            "Your Critical Strikes have a 5% chance to deal Double Damage",
+                            "30% increased Critical Strike Chance"
+                        ]
+                    },
+                    "188": {
+                        "expansionJewel": {
+                            "index": 0,
+                            "parent": "33753",
+                            "proxy": "56439",
+                            "size": 0
+                        },
+                        "group": "expansion_47",
+                        "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
+                        "in": [
+                            "187"
+                        ],
+                        "isJewelSocket": true,
+                        "name": "Small Jewel Socket",
+                        "orbit": 2,
+                        "orbitIndex": 5,
+                        "out": [],
+                        "skill": "22748",
+                        "stats": []
+                    },
+                    "190": {
+                        "group": "expansion_47",
+                        "icon": "Art/2DArt/SkillIcons/passives/IncreaseCritChanceNotable.png",
+                        "in": [
+                            "188"
+                        ],
+                        "isNotable": true,
+                        "name": "Basics of Pain",
+                        "orbit": 2,
+                        "orbitIndex": 8,
+                        "out": [],
+                        "skill": "44544",
+                        "stats": [
+                            "20% increased Damage",
+                            "30% increased Critical Strike Chance"
+                        ]
+                    },
+                    "191": {
+                        "group": "expansion_47",
+                        "icon": "Art/2DArt/SkillIcons/passives/IncreaseCritChanceNode.png",
+                        "in": [
+                            "33753"
+                        ],
+                        "name": "Critical Chance",
+                        "orbit": 2,
+                        "orbitIndex": 11,
+                        "out": [],
+                        "skill": "10695",
+                        "stats": [
+                            "+2 to Strength",
+                            "15% increased Critical Strike Chance"
+                        ]
+                    }
+                }
+            },
+            "type": "JewelPassiveTreeExpansionMedium"
+        },
+        "48": {
+            "type": "JewelInt"
+        },
+        "5": {
+            "radius": 2040,
+            "radiusMin": 1680,
+            "type": "JewelStr"
+        },
+        "50": {
+            "type": "JewelStr"
+        }
+    },
+    "mastery_effects": [
+        "3294177469",
+        "756352191",
+        "3122266404",
+        "543862268",
+        "4032756085",
+        "2753483917",
+        "4219298497",
+        "2053328141",
+        "195787071",
+        "2822063602",
+        "2253377903",
+        "2556580035"
+    ]
+}
