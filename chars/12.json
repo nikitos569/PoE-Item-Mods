@@ -1,0 +1,4818 @@
+{
+    "character": {
+        "ascendancyClass": 3,
+        "class": "Saboteur",
+        "classId": 6,
+        "experience": 3721489485,
+        "lastActive": true,
+        "league": "Scourge",
+        "level": 98,
+        "name": "PlsDeleteSirus"
+    },
+    "items": [
+        {
+            "baseType": "Jade Flask",
+            "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+            "enchantMods": [
+                "Used when Charges reach full"
+            ],
+            "explicitMods": [
+                "Gain 3 Charges when you are Hit by an Enemy",
+                "46% increased Evasion Rating during Flask effect"
+            ],
+            "frameType": 1,
+            "h": 2,
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvZXZhc2lvbmZsYXNrMDEiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjEsImZpIjp0cnVlfV0/f31735f3f1/evasionflask01.png",
+            "id": "087577aa33c406f4fea8dc8712434a32cb6e9e15f44a341b74b86f4cd21eb4b2",
+            "identified": true,
+            "ilvl": 42,
+            "inventoryId": "Flask",
+            "league": "Scourge",
+            "name": "",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Quality",
+                    "type": 6,
+                    "values": [
+                        [
+                            "+20%",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Lasts {0} Seconds",
+                    "values": [
+                        [
+                            "7.20",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Consumes {0} of {1} Charges on use",
+                    "values": [
+                        [
+                            "30",
+                            0
+                        ],
+                        [
+                            "60",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Currently has {0} Charges",
+                    "values": [
+                        [
+                            "60",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "27",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Delinquent's Jade Flask of the Antelope",
+            "utilityMods": [
+                "+1500 to Evasion Rating"
+            ],
+            "verified": false,
+            "w": 1,
+            "x": 3,
+            "y": 0
+        },
+        {
+            "baseType": "Leather Belt",
+            "craftedMods": [
+                "+15% to Cold and Chaos Resistances"
+            ],
+            "elder": true,
+            "explicitMods": [
+                "+91 to maximum Life",
+                "12% increased maximum Life",
+                "Regenerate 137.8 Life per second",
+                "+64 to maximum Mana"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQmVsdHMvQmVsdDMiLCJ3IjoyLCJoIjoxLCJzY2FsZSI6MX1d/93af17affd/Belt3.png",
+            "id": "3b0fe6bf6a83df7188cb2e174e9461b801f1f5b77851486cad2703d5a5902b41",
+            "identified": true,
+            "ilvl": 85,
+            "implicitMods": [
+                "+48 to maximum Life"
+            ],
+            "influences": {
+                "elder": true
+            },
+            "inventoryId": "Belt",
+            "league": "Scourge",
+            "name": "Blood Locket",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Quality (Life and Mana Modifiers)",
+                    "type": 6,
+                    "values": [
+                        [
+                            "+20%",
+                            1
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "64",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Leather Belt",
+            "verified": false,
+            "w": 2,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "baseType": "Slink Gloves",
+            "craftedMods": [
+                "+69 to maximum Life"
+            ],
+            "explicitMods": [
+                "Socketed Gems are Supported by Level 22 Trap",
+                "35% increased Trap Damage",
+                "+20% to Chaos Damage over Time Multiplier",
+                "26% increased Evasion Rating",
+                "+37% to Lightning Resistance"
+            ],
+            "frameType": 2,
+            "h": 2,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9HbG92ZXMvR2xvdmVzRGV4NCIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/05a8c03e95/GlovesDex4.png",
+            "id": "c4c4e15dcb7e869d22ad844d7c61002deefd0139461f4a9aac60685d6578fdc4",
+            "identified": true,
+            "ilvl": 83,
+            "influences": {
+                "hunter": true,
+                "shaper": true
+            },
+            "inventoryId": "Gloves",
+            "league": "Scourge",
+            "name": "Viper Vise",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Quality",
+                    "type": 6,
+                    "values": [
+                        [
+                            "+20%",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Evasion Rating",
+                    "type": 17,
+                    "values": [
+                        [
+                            "355",
+                            1
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "72",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Str",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "100",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Dex",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "114",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Int",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "70",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "shaper": true,
+            "socketedItems": [
+                {
+                    "baseType": "Chain Support",
+                    "colour": "D",
+                    "corrupted": true,
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Supported Skills Chain +2 times",
+                        "Supported Skills deal 10% less Damage with Hits",
+                        "Supported Skills have 10% increased Chaining range"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L2NoYWluIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/812e47f631/chain.png",
+                    "id": "a17a6513e0e768a69b609f968876594170d7d735f948c2655d01005b9cf59ebd",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Support, Chaining, Projectile",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "21 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "150%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "72",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "114",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports projectile skills, and any other skills that chain.",
+                    "socket": 0,
+                    "support": true,
+                    "typeLine": "Chain Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Trap and Mine Damage Support",
+                    "colour": "D",
+                    "corrupted": true,
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Supported Skills deal 50% more Trap and Mine Damage",
+                        "Supported Skills deal 10% increased Damage",
+                        "Supported Skills have 10% less Mine Throwing Speed",
+                        "Supported Skills have 10% less Trap Throwing Speed"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1RyYXBBbmRNaW5lRGFtYWdlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/83b5eac9be/TrapAndMineDamage.png",
+                    "id": "ea4dde8ea353e8f9326189e8e5dd15f33b4d54a18b45c95eaa8db7b9764019a0",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Support, Trap, Mine",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "21 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "130%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "72",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "72",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "50",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports skills which throw Traps or Mines.",
+                    "socket": 1,
+                    "support": true,
+                    "typeLine": "Trap and Mine Damage Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Cluster Traps Support",
+                    "colour": "D",
+                    "corrupted": true,
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Supported Skills throw up to 2 additional Traps",
+                        "Supported Skills throw Traps randomly around targeted location",
+                        "Supported Skills can have up to 5 additional Traps placed at a time",
+                        "Supported Skills deal 35% less Damage",
+                        "Supported Skills deal 10% increased Trap Damage"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0NsdXN0ZXJUcmFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/91000f9475/ClusterTrap.png",
+                    "id": "40451450bbe0d18b9940c0244446f689e94732909776e9fef7d51c863ba7f85f",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Trap, Support",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "21 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "140%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "72",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "72",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "50",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports traps skills, making them throw extra traps randomly around the targeted location.",
+                    "socket": 2,
+                    "support": true,
+                    "typeLine": "Cluster Traps Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Exsanguinate",
+                    "colour": "S",
+                    "corrupted": true,
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Deals 904 to 1356 Physical Damage",
+                        "Deals 1255.6 Base Physical Damage per second",
+                        "Base duration is 1.00 seconds",
+                        "20% increased Skill Effect Duration",
+                        "Modifiers to Spell Damage apply to this Skill's Damage Over Time effect",
+                        "Fires tendrils at up to 9 Targets"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbG9vZFRlbmRyaWxzU2tpbGxHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d421c5c70e/BloodTendrilsSkillGem.png",
+                    "id": "9c35625cf36f7a4c7b644784d4509ad85367f23f9c2421698e9236689bd2aa8f",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Spell, Chaining, Physical, Duration",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "21 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost",
+                            "values": [
+                                [
+                                    "47 Life",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cast Time",
+                            "values": [
+                                [
+                                    "0.80 sec",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Critical Strike Chance",
+                            "values": [
+                                [
+                                    "6.00%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Effectiveness of Added Damage",
+                            "values": [
+                                [
+                                    "180%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "72",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Str",
+                            "values": [
+                                [
+                                    "100",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Releases several tendrils of blood from your character, targeting enemies in a narrow angle in front of you. The beams deal physical damage and inflict a physical damage over time debuff to enemies, which can stack up to 3 times. Effects which allow skills to chain can apply to these tendrils.",
+                    "socket": 3,
+                    "support": false,
+                    "typeLine": "Exsanguinate",
+                    "verified": false,
+                    "w": 1
+                }
+            ],
+            "sockets": [
+                {
+                    "attr": "D",
+                    "group": 0,
+                    "sColour": "G"
+                },
+                {
+                    "attr": "D",
+                    "group": 0,
+                    "sColour": "G"
+                },
+                {
+                    "attr": "D",
+                    "group": 0,
+                    "sColour": "G"
+                },
+                {
+                    "attr": "S",
+                    "group": 0,
+                    "sColour": "R"
+                }
+            ],
+            "typeLine": "Slink Gloves",
+            "verified": false,
+            "w": 2,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "baseType": "Ezomyte Dagger",
+            "enchantMods": [
+                "Quality does not increase Physical Damage",
+                "Grants 1% increased Area of Effect per 4% Quality"
+            ],
+            "explicitMods": [
+                "+3 to Level of all Physical Spell Skill Gems",
+                "Deal no Elemental Damage"
+            ],
+            "flavourText": [
+                "There is nothing more brutal than a simple blade wielded with rage."
+            ],
+            "frameType": 3,
+            "h": 3,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL0NvbGRJcm9uUG9pbnQiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/1a4002957b/ColdIronPoint.png",
+            "id": "be650ec6afc6677970eda7c94493517157384b85763566087047614d0df6d18c",
+            "identified": true,
+            "ilvl": 70,
+            "implicitMods": [
+                "30% increased Global Critical Strike Chance"
+            ],
+            "inventoryId": "Weapon",
+            "league": "Scourge",
+            "name": "Cold Iron Point",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Rune Dagger",
+                    "values": []
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Quality",
+                    "type": 6,
+                    "values": [
+                        [
+                            "+20%",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Physical Damage",
+                    "type": 9,
+                    "values": [
+                        [
+                            "20-79",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Critical Strike Chance",
+                    "type": 12,
+                    "values": [
+                        [
+                            "6.30%",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Attacks per Second",
+                    "type": 13,
+                    "values": [
+                        [
+                            "1.40",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Weapon Range",
+                    "type": 14,
+                    "values": [
+                        [
+                            "10",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "70",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Dex",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "155",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Int",
+                    "values": [
+                        [
+                            "131",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "socketedItems": [
+                {
+                    "baseType": "Despair",
+                    "colour": "I",
+                    "corrupted": true,
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Base duration is 10.90 seconds",
+                        "Curse gains 10 Doom per second if you Cast this Spell yourself",
+                        "+10 to radius",
+                        "Cursed enemies have -29% to Chaos Resistance",
+                        "Cursed enemies take 35% increased Damage from Damage Over Time effects",
+                        "Adds 46 to 57 Chaos Damage to Hits against Cursed Enemies"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZXNwYWlyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b4dbf071cd/Despair.png",
+                    "id": "3b44f37ac0d5596a52fdec545ef6fff24453b446dd94569996e74121d814de40",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Spell, AoE, Duration, Chaos, Curse, Hex",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost",
+                            "values": [
+                                [
+                                    "33 Mana",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cast Time",
+                            "values": [
+                                [
+                                    "0.50 sec",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "68",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "98",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Curses all targets in an area, lowering their chaos resistance and increasing damage over time they take. All hits will deal added chaos damage to the cursed enemies.",
+                    "socket": 0,
+                    "support": false,
+                    "typeLine": "Despair",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Summon Skitterbots",
+                    "colour": "I",
+                    "corrupted": true,
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "108% increased Minion Movement Speed",
+                        "Minions have 19% increased Chill Effect",
+                        "Minions have 19% increased Shock Effect",
+                        "Maximum 1 Summoned Skitterbot of each type",
+                        "Chilling Skitterbot's Aura Chills Enemies near it",
+                        "Shocking Skitterbot's Aura Shocks Enemies near it",
+                        "Skitterbots grant 10% more Trap and Mine Damage"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Ta2l0dGVyYm90U2tpbGxHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d6f39b50a5/SkitterbotSkillGem.png",
+                    "id": "42fc6955169bb0b5bc5b5898ce89ce1bdf1235c2791508f30b44ba84f55c04b2",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Trap, Mine, Spell, Minion, Cold, Lightning, AoE, Aura",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Reservation",
+                            "values": [
+                                [
+                                    "35% Mana",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cooldown Time",
+                            "values": [
+                                [
+                                    "1.00 sec",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cast Time",
+                            "values": [
+                                [
+                                    "Instant",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+16%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "68",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "98",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Summon a Chilling Skitterbot and a Shocking Skitterbot, which will trigger your traps and detonate your mines. Mines detonated by Skitterbots will re-arm and can then be detonated again. The Skitterbots grant you more trap and mine damage, and cannot be targeted or damaged.",
+                    "socket": 1,
+                    "support": false,
+                    "typeLine": "Summon Skitterbots",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Grace",
+                    "colour": "D",
+                    "corrupted": true,
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "+19 to radius",
+                        "38% increased Area of Effect",
+                        "You and nearby allies gain 2575 additional Evasion Rating",
+                        "You and nearby allies gain 29% more Evasion rating"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9HcmFjZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e98082048a/Grace.png",
+                    "id": "50b5d4ad117282f1f81ed75b92d20f28d588a6053ac44e2f4b1a5c5b65a972f4",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Aura, Spell, AoE",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Reservation",
+                            "values": [
+                                [
+                                    "50% Mana",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cooldown Time",
+                            "values": [
+                                [
+                                    "1.20 sec",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cast Time",
+                            "values": [
+                                [
+                                    "Instant",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+19%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "155",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Casts an aura that grants evasion to you and your allies.",
+                    "socket": 2,
+                    "support": false,
+                    "typeLine": "Grace",
+                    "verified": false,
+                    "w": 1
+                }
+            ],
+            "sockets": [
+                {
+                    "attr": "I",
+                    "group": 0,
+                    "sColour": "B"
+                },
+                {
+                    "attr": "I",
+                    "group": 1,
+                    "sColour": "B"
+                },
+                {
+                    "attr": "D",
+                    "group": 2,
+                    "sColour": "G"
+                }
+            ],
+            "typeLine": "Ezomyte Dagger",
+            "verified": false,
+            "w": 1,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "baseType": "Sharkskin Tunic",
+            "craftedMods": [
+                "Gain 10% of Maximum Life as Extra Maximum Energy Shield"
+            ],
+            "explicitMods": [
+                "+34 to Dexterity",
+                "6% increased Evasion Rating",
+                "+112 to maximum Life",
+                "9% increased maximum Life",
+                "+21% to Cold Resistance",
+                "+41% to Lightning Resistance",
+                "6% increased Stun and Block Recovery"
+            ],
+            "frameType": 2,
+            "h": 3,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9Cb2R5RGV4MUIiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/57409a1844/BodyDex1B.png",
+            "id": "013e6a0ea576c5fd7bbf3aafb6c440c3687c3b57531876a57a3ce38adc5f31be",
+            "identified": true,
+            "ilvl": 69,
+            "inventoryId": "BodyArmour",
+            "league": "Scourge",
+            "name": "Rage Sanctuary",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Quality",
+                    "type": 6,
+                    "values": [
+                        [
+                            "+20%",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Evasion Rating",
+                    "type": 17,
+                    "values": [
+                        [
+                            "735",
+                            1
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "70",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Str",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "111",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Dex",
+                    "values": [
+                        [
+                            "152",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Int",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "70",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "socketedItems": [
+                {
+                    "baseType": "Seismic Trap",
+                    "colour": "D",
+                    "corrupted": true,
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Deals 853 to 1280 Physical Damage",
+                        "Trap lasts 4 seconds",
+                        "Base duration is 3.50 seconds",
+                        "Releases waves every 0.9 seconds",
+                        "20% increased Physical Damage",
+                        "Releases 5 waves"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdWJ0ZXJyYW5lYW5UcmFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/592e94541c/SubterraneanTrap.png",
+                    "id": "049af3c2edb4908d9dfe0766248ae957fb56b0d143e03368f2dae3ff44a5edc1",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Trap, Spell, Duration, AoE, Physical",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost",
+                            "values": [
+                                [
+                                    "25 Mana",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cooldown Time",
+                            "values": [
+                                [
+                                    "8.00 sec (3 uses)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cast Time",
+                            "values": [
+                                [
+                                    "1.00 sec",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Critical Strike Chance",
+                            "values": [
+                                [
+                                    "5.00%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Effectiveness of Added Damage",
+                            "values": [
+                                [
+                                    "190%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "98",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "68",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Throws a trap which, once triggered, repeatedly releases a number of waves for a duration. Each wave deals damage in a series of small bursts in a line, ending with a larger burst. Modifiers to trap throwing speed affects how frequently it releases waves.",
+                    "socket": 0,
+                    "support": false,
+                    "typeLine": "Seismic Trap",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Lifetap Support",
+                    "colour": "S",
+                    "corrupted": true,
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Supported Skills Cost Life instead of Mana",
+                        "Supported Skills deal 10% increased Damage",
+                        "Gain Lifetap after Spending a total of 273 Life on Upfront\nCosts and Effects of a Supported Skill",
+                        "Supported Skills deal 19% more Damage while you have Lifetap",
+                        "Lifetap lasts 4 seconds"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0xpZmVUYXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9cef38ae47/LifeTap.png",
+                    "id": "989f546fdcdbf71b46653d10c9c82a0b6372440ae1c5397d0e58d360638ed3e0",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Support, Duration",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "300%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Str",
+                            "values": [
+                                [
+                                    "111",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports any skill. Minions cannot gain the Lifetap buff.",
+                    "socket": 1,
+                    "support": true,
+                    "typeLine": "Lifetap Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Advanced Traps Support",
+                    "colour": "D",
+                    "corrupted": true,
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Supported Skills have 107% increased Cooldown Recovery Rate for throwing Traps",
+                        "Supported Skills have 29% increased Skill Effect Duration",
+                        "Supported Skills deal 6% increased Trap Damage",
+                        "Supported Skills have 34% increased Trap Throwing Speed"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1RyYXBDb29sZG93blJlY292ZXJ5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/30ba703ddf/TrapCooldownRecovery.png",
+                    "id": "d501b12702a5985e7db6b796fd517d7a31e299fee9e9440b99fbc12cb61e41c1",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Trap, Support",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "120%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+13%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "111",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports skills which throw traps.",
+                    "socket": 2,
+                    "support": true,
+                    "typeLine": "Advanced Traps Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Trap and Mine Damage Support",
+                    "colour": "D",
+                    "corrupted": true,
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Supported Skills deal 49% more Trap and Mine Damage",
+                        "Supported Skills deal 9% increased Damage",
+                        "Supported Skills have 10% less Mine Throwing Speed",
+                        "Supported Skills have 10% less Trap Throwing Speed"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1RyYXBBbmRNaW5lRGFtYWdlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/83b5eac9be/TrapAndMineDamage.png",
+                    "id": "cfddbbc3895beebcbe52dbf4fc46a7933da1375a6c898532506ca7dcd0ef31a3",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Support, Trap, Mine",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "130%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+18%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "48",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports skills which throw Traps or Mines.",
+                    "socket": 3,
+                    "support": true,
+                    "typeLine": "Trap and Mine Damage Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Unbound Ailments Support",
+                    "colour": "I",
+                    "corrupted": true,
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Supported Skills have 64% increased Duration of Ailments on Enemies",
+                        "Supported Skills have 54% increased Effect of non-Damaging Ailments on Enemies",
+                        "Supported Skills deal 19% more Damage with Ailments"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1VuYm91bmRBaWxtZW50cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a5ce74c4dc/UnboundAilments.png",
+                    "id": "fa514d5500f08d1b4191f14469bd965286a122e95ceb27e942868552941ecd87",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Support",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "120%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "48",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports any skill that hits enemies or inflicts ailments",
+                    "socket": 4,
+                    "support": true,
+                    "typeLine": "Unbound Ailments Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Void Manipulation Support",
+                    "colour": "D",
+                    "corrupted": true,
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Supported Skills deal 34% more Chaos Damage",
+                        "Supported Skills deal 10% increased Chaos Damage",
+                        "Supported Skills deal no Elemental Damage"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1ZvaWRNYW5pcHVsYXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d43a79f597/VoidManipulation.png",
+                    "id": "059fdacb9420b1b5e4a9bc47c41b214b67def0f6a1526ebcfcc972443e0c0d50",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Chaos, Support",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "130%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "48",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports any skill that deals damage.",
+                    "socket": 5,
+                    "support": true,
+                    "typeLine": "Void Manipulation Support",
+                    "verified": false,
+                    "w": 1
+                }
+            ],
+            "sockets": [
+                {
+                    "attr": "D",
+                    "group": 0,
+                    "sColour": "G"
+                },
+                {
+                    "attr": "S",
+                    "group": 0,
+                    "sColour": "R"
+                },
+                {
+                    "attr": "D",
+                    "group": 0,
+                    "sColour": "G"
+                },
+                {
+                    "attr": "D",
+                    "group": 0,
+                    "sColour": "G"
+                },
+                {
+                    "attr": "I",
+                    "group": 0,
+                    "sColour": "B"
+                },
+                {
+                    "attr": "D",
+                    "group": 0,
+                    "sColour": "G"
+                }
+            ],
+            "typeLine": "Sharkskin Tunic",
+            "verified": false,
+            "w": 2,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "baseType": "Sovereign Spiked Shield",
+            "craftedMods": [
+                "Gain 8% of Physical Damage as Extra Chaos Damage"
+            ],
+            "explicitMods": [
+                "+90 to maximum Life",
+                "6% increased maximum Life",
+                "+38% to Fire Resistance",
+                "+25% to Chaos Resistance"
+            ],
+            "frameType": 2,
+            "h": 2,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9TaGllbGRzL1NoaWVsZERleEludDUiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/3f3c95a49a/ShieldDexInt5.png",
+            "id": "a55e90d6578219fff3c2311c1904800e62da85d190d134f317c284bb43a3a90f",
+            "identified": true,
+            "ilvl": 79,
+            "implicitMods": [
+                "+5% chance to Suppress Spell Damage"
+            ],
+            "influences": {
+                "hunter": true
+            },
+            "inventoryId": "Offhand",
+            "league": "Scourge",
+            "name": "Woe Rock",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Quality",
+                    "type": 6,
+                    "values": [
+                        [
+                            "+20%",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Chance to Block",
+                    "type": 15,
+                    "values": [
+                        [
+                            "24%",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Evasion Rating",
+                    "type": 17,
+                    "values": [
+                        [
+                            "250",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Energy Shield",
+                    "type": 18,
+                    "values": [
+                        [
+                            "52",
+                            1
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "70",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Str",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "77",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Dex",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "155",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Int",
+                    "values": [
+                        [
+                            "70",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "socketedItems": [
+                {
+                    "additionalProperties": [
+                        {
+                            "displayMode": 2,
+                            "name": "Experience",
+                            "progress": 1,
+                            "type": 20,
+                            "values": [
+                                [
+                                    "359090/359090",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "baseType": "Shield Charge",
+                    "colour": "S",
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "38 to 57 Base Off Hand Physical Damage",
+                        "4 to 5 Added Physical Damage per 15 Armour or Evasion Rating on Shield",
+                        "75% increased Stun Threshold reduction on enemies at Maximum charge distance",
+                        "100% more Damage with Hits at Maximum Charge Distance",
+                        "96% increased Movement Speed"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaGllbGRDaGFyZ2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1749dcaa1d/ShieldCharge.png",
+                    "id": "b31c433cb542d962b9dfc22378a9c88dc339ddd12f3f498b195dae0e9435ca3e",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "nextLevelRequirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "36",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Str",
+                            "values": [
+                                [
+                                    "83",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Attack, AoE, Movement, Travel, Physical, Melee",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "7",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost",
+                            "values": [
+                                [
+                                    "10 Mana",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Attack Time",
+                            "values": [
+                                [
+                                    "0.50 sec",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Critical Strike Chance",
+                            "values": [
+                                [
+                                    "5.00%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Attack Damage",
+                            "values": [
+                                [
+                                    "100% of base",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "33",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Str",
+                            "values": [
+                                [
+                                    "77",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Charges at a targeted location or enemy, pushing away enemies in your path and repeatedly dealing off-hand damage in a small area in front of you. You deal damage in a larger area when you reach the target. The further you travel, the more damage you deal, and the greater your chance of stunning enemies. Cannot be supported by Multistrike.",
+                    "socket": 0,
+                    "support": false,
+                    "typeLine": "Shield Charge",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Faster Attacks Support",
+                    "colour": "D",
+                    "corrupted": true,
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Supported Skills have 49% increased Attack Speed"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0Zhc3RlckF0dGFja3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c3e1544a95/FasterAttacks.png",
+                    "id": "90238114c9c4e79de62c061fed234a0c09fd418312c7b7d3382b3750ebd50ed8",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Attack, Support",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "110%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+11%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "111",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports attack skills.",
+                    "socket": 1,
+                    "support": true,
+                    "typeLine": "Faster Attacks Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Herald of Agony",
+                    "colour": "D",
+                    "corrupted": true,
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Maximum 1 Summoned Agony Crawler",
+                        "20% increased Minion Movement Speed",
+                        "Grants 20% chance to Poison on Hit",
+                        "Grants Virulence when you Poison an Enemy",
+                        "Grants 10% more Poison Damage",
+                        "Maximum 40 Virulence",
+                        "Agony Crawler has 3% increased Attack Speed per Virulence you have",
+                        "Agony Crawler deals 9% increased Physical Damage per Virulence you have",
+                        "Agony Crawler has 45 to 84 Added Physical Damage per Virulence you have",
+                        "Minions cannot Taunt Enemies"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IZXJhbGRPZkFnb255R2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0e95349c4d/HeraldOfAgonyGem.png",
+                    "id": "8d4dc83d88241f137583d1dc6ff7816903b5882082125f883ce2fe5cd234886e",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Spell, Herald, Minion, Chaos, Physical",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Reservation",
+                            "values": [
+                                [
+                                    "25% Mana",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cooldown Time",
+                            "values": [
+                                [
+                                    "1.00 sec",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cast Time",
+                            "values": [
+                                [
+                                    "Instant",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "155",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Grants a buff giving more poison damage and a chance to inflict poison. When you poison an enemy while you have this buff, you gain Virulence, and summon an Agony Crawler minion that uses projectile and area attacks. You will lose Virulence over time, at a rate which increases the more Virulence you have. The minion will die when you have no Virulence.",
+                    "socket": 2,
+                    "support": false,
+                    "typeLine": "Herald of Agony",
+                    "verified": false,
+                    "w": 1
+                }
+            ],
+            "sockets": [
+                {
+                    "attr": "S",
+                    "group": 0,
+                    "sColour": "R"
+                },
+                {
+                    "attr": "D",
+                    "group": 0,
+                    "sColour": "G"
+                },
+                {
+                    "attr": "D",
+                    "group": 1,
+                    "sColour": "G"
+                }
+            ],
+            "typeLine": "Sovereign Spiked Shield",
+            "verified": false,
+            "w": 2,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "baseType": "Lapis Amulet",
+            "craftedMods": [
+                "+55 to maximum Life"
+            ],
+            "enchantMods": [
+                "Allocates Force Shaper"
+            ],
+            "explicitMods": [
+                "+8 to all Attributes",
+                "+50 to Intelligence",
+                "11% increased Lightning Damage",
+                "+1 to Level of all Dexterity Skill Gems",
+                "+1 to Level of all Physical Skill Gems"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9BbXVsZXQ1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/998c42287b/Amulet5.png",
+            "id": "0f6bf9fb391f8a8fa56400637c29a133f9b2726485c5e2c9c8b2ca7c80732501",
+            "identified": true,
+            "ilvl": 83,
+            "implicitMods": [
+                "+30 to Intelligence"
+            ],
+            "influences": {
+                "hunter": true,
+                "warlord": true
+            },
+            "inventoryId": "Amulet",
+            "league": "Scourge",
+            "name": "Dusk Beads",
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "65",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Lapis Amulet",
+            "verified": false,
+            "w": 1,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "baseType": "Deicide Mask",
+            "craftedMods": [
+                "17% increased Evasion Rating",
+                "+12 to maximum Life"
+            ],
+            "enchantMods": [
+                "Seismic Trap has 30% increased Skill Effect Duration"
+            ],
+            "explicitMods": [
+                "+44 to Dexterity",
+                "+99 to maximum Life",
+                "+48% to Fire Resistance",
+                "+35% to Cold Resistance",
+                "10% of Physical Damage from Hits taken as Fire Damage"
+            ],
+            "frameType": 2,
+            "h": 2,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9IZWxtZXRzL0hlbG1ldERleEludDExIiwidyI6MiwiaCI6Miwic2NhbGUiOjF9XQ/ff51fc2e8c/HelmetDexInt11.png",
+            "id": "a26707b10b0aec78563812ee50ef2fa5fc84a732466fd02e6fff7e6e0b79b944",
+            "identified": true,
+            "ilvl": 84,
+            "inventoryId": "Helm",
+            "league": "Scourge",
+            "name": "Honour Dome",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Quality",
+                    "type": 6,
+                    "values": [
+                        [
+                            "+20%",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Evasion Rating",
+                    "type": 17,
+                    "values": [
+                        [
+                            "263",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Energy Shield",
+                    "type": 18,
+                    "values": [
+                        [
+                            "56",
+                            1
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "70",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Str",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "111",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Dex",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "98",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Int",
+                    "values": [
+                        [
+                            "88",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "socketedItems": [
+                {
+                    "additionalProperties": [
+                        {
+                            "displayMode": 2,
+                            "name": "Experience",
+                            "progress": 1,
+                            "type": 20,
+                            "values": [
+                                [
+                                    "388734/388734",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "baseType": "Cast when Damage Taken Support",
+                    "colour": "S",
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "This Gem can only Support Skill Gems requiring Level 38 or lower",
+                        "Supported Skills deal 70% less Damage",
+                        "You cannot Cast Supported Triggerable Spells directly",
+                        "Trigger Supported Spells when you take a total of 528 Damage"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0Nhc3RPbkRtZ1Rha2VuIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2f075f5964/CastOnDmgTaken.png",
+                    "id": "1791c39363dc5b320d501d36125ee1e8d09ea32ca01895c5175aa13533669f1b",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "nextLevelRequirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "40",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Str",
+                            "values": [
+                                [
+                                    "41",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "29",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Support, Spell, Trigger",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "250%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cooldown Time",
+                            "values": [
+                                [
+                                    "0.25 sec",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "38",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Str",
+                            "values": [
+                                [
+                                    "39",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "27",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Each supported spell skill will track damage you take, and be triggered when the total damage taken reaches a threshold. Cannot support skills used by totems, traps, or mines. Vaal skills, channelling skills, and skills with a reservation cannot be triggered.",
+                    "socket": 0,
+                    "support": true,
+                    "typeLine": "Cast when Damage Taken Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Increased Duration Support",
+                    "colour": "S",
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Supported Skills have 74% increased Skill Effect Duration"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0luY3JlYXNlZER1cmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a5db7ae0bd/IncreasedDuration.png",
+                    "id": "d5bc01fafcd594cdab849d36f970b90d585215e58f1d034187c6354c22e80b8c",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Support, Duration",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "130%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Str",
+                            "values": [
+                                [
+                                    "111",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports any skill with a duration.",
+                    "socket": 1,
+                    "support": true,
+                    "typeLine": "Increased Duration Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "additionalProperties": [
+                        {
+                            "displayMode": 2,
+                            "name": "Experience",
+                            "progress": 1,
+                            "type": 20,
+                            "values": [
+                                [
+                                    "252595/252595",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "baseType": "Immortal Call",
+                    "colour": "S",
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Base duration is 1.00 seconds",
+                        "20% increased Buff Duration per Endurance Charge removed",
+                        "This Skill's Cooldown does not recover during its effect",
+                        "25% less Elemental Damage taken",
+                        "25% less Physical Damage taken",
+                        "15.0% less Physical Damage taken per Endurance Charge removed"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JbW1vcnRhbENhbGwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ef38147c94/ImmortalCall.png",
+                    "id": "3fa1e63b61d7fc4cc5d813627fd4af7953307e87a263c6b9928fc0b8dd15904e",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "nextLevelRequirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "36",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Str",
+                            "values": [
+                                [
+                                    "83",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Spell, Duration, Guard",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost",
+                            "values": [
+                                [
+                                    "21 Mana",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cooldown Time",
+                            "values": [
+                                [
+                                    "3.00 sec",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cast Time",
+                            "values": [
+                                [
+                                    "Instant",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "34",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Str",
+                            "values": [
+                                [
+                                    "79",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Take less Physical and Elemental Damage for a short time. Consumes up to 5 Endurance Charges to lengthen the buff and further lessen Physical Damage taken. Shares a cooldown with other Guard skills.",
+                    "socket": 2,
+                    "support": false,
+                    "typeLine": "Immortal Call",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Withering Step",
+                    "colour": "D",
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Withered lasts 3 seconds",
+                        "+6 to radius",
+                        "Removes existing Elusive before granting a new Elusive Buff when used",
+                        "This Skill's Cooldown does not recover during its effect",
+                        "48% increased Effect of Elusive from this Skill",
+                        "Inflicts 6 Withered Debuffs the first time each Enemy enters the Area",
+                        "Buff grants Phasing"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9XaXRoZXJpbmdTdGVwR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6f949bee1e/WitheringStepGem.png",
+                    "id": "c70c01ba02987f0ce40c75dbd3739a067bbc9440a49c0b9ba56b60c7d625b48e",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Travel, AoE, Chaos, Movement, Blink, Spell, Duration",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost",
+                            "values": [
+                                [
+                                    "23 Mana",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cooldown Time",
+                            "values": [
+                                [
+                                    "3.00 sec",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cast Time",
+                            "values": [
+                                [
+                                    "Instant",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "98",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "68",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Removes any existing Elusive buff before applying both Elusive and a buff that grants Phasing. While you have this buff, monsters that enter an area around you will be Withered. Using a skill or losing the Elusive buff ends this skill's effects. Shares a cooldown with other Blink skills.",
+                    "socket": 3,
+                    "support": false,
+                    "typeLine": "Withering Step",
+                    "verified": false,
+                    "w": 1
+                }
+            ],
+            "sockets": [
+                {
+                    "attr": "S",
+                    "group": 0,
+                    "sColour": "R"
+                },
+                {
+                    "attr": "S",
+                    "group": 0,
+                    "sColour": "R"
+                },
+                {
+                    "attr": "S",
+                    "group": 0,
+                    "sColour": "R"
+                },
+                {
+                    "attr": "D",
+                    "group": 0,
+                    "sColour": "G"
+                }
+            ],
+            "typeLine": "Deicide Mask",
+            "verified": false,
+            "w": 2,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "baseType": "Royal Sceptre",
+            "craftedMods": [
+                "+6% to Quality of Socketed Gems"
+            ],
+            "explicitMods": [
+                "Adds 2 to 21 Lightning Damage to Spells",
+                "+30% to Fire Resistance",
+                "+294 to Accuracy Rating",
+                "10% chance to Freeze",
+                "34% increased Elemental Damage with Attack Skills"
+            ],
+            "frameType": 2,
+            "h": 3,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9zY2VwdGVyNyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/6b9c62e4c3/scepter7.png",
+            "id": "05e17a52c85c6301b9ad1d08bd2cb999c28a1fc57f78929875a8dba77a2afbbd",
+            "identified": true,
+            "ilvl": 50,
+            "implicitMods": [
+                "24% increased Elemental Damage"
+            ],
+            "inventoryId": "Offhand2",
+            "league": "Scourge",
+            "name": "Victory Star",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Sceptre",
+                    "values": []
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Physical Damage",
+                    "type": 9,
+                    "values": [
+                        [
+                            "34-80",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Critical Strike Chance",
+                    "type": 12,
+                    "values": [
+                        [
+                            "6.00%",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Attacks per Second",
+                    "type": 13,
+                    "values": [
+                        [
+                            "1.20",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Weapon Range",
+                    "type": 14,
+                    "values": [
+                        [
+                            "11",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "57",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Str",
+                    "values": [
+                        [
+                            "86",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Int",
+                    "values": [
+                        [
+                            "86",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "socketedItems": [
+                {
+                    "additionalProperties": [
+                        {
+                            "displayMode": 2,
+                            "name": "Experience",
+                            "progress": 0.52,
+                            "type": 20,
+                            "values": [
+                                [
+                                    "117864762/226854909",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "baseType": "Empower Support",
+                    "colour": "S",
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "This Gem gains 100% increased Experience"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0VtcG93ZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c2b1b38b15/Empower.png",
+                    "id": "6af6499c263586c40a6a9596d08942866e539a2829628bb99852dd2aab3f6f9f",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Exceptional, Support",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "130%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports any skill gem. Once this gem reaches level 2 or above, will raise the level of supported gems. Cannot support skills that don't come from gems.",
+                    "socket": 0,
+                    "support": true,
+                    "typeLine": "Empower Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "additionalProperties": [
+                        {
+                            "displayMode": 2,
+                            "name": "Experience",
+                            "progress": 0.52,
+                            "type": 20,
+                            "values": [
+                                [
+                                    "117864762/226854909",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "baseType": "Empower Support",
+                    "colour": "S",
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "This Gem gains 100% increased Experience"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0VtcG93ZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c2b1b38b15/Empower.png",
+                    "id": "fa61082382be1fc8dffd8ab7e973bdf43d5ae4f6b69531aec0ce9b0a8a59b6fb",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Exceptional, Support",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "130%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports any skill gem. Once this gem reaches level 2 or above, will raise the level of supported gems. Cannot support skills that don't come from gems.",
+                    "socket": 1,
+                    "support": true,
+                    "typeLine": "Empower Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "additionalProperties": [
+                        {
+                            "displayMode": 2,
+                            "name": "Experience",
+                            "progress": 0.5,
+                            "type": 20,
+                            "values": [
+                                [
+                                    "113819837/226854909",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "baseType": "Empower Support",
+                    "colour": "S",
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "This Gem gains 100% increased Experience"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0VtcG93ZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c2b1b38b15/Empower.png",
+                    "id": "943b300687266591214d43c062776ff442a5dbece3adcdc8f0ee595842bf361c",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Exceptional, Support",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "130%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports any skill gem. Once this gem reaches level 2 or above, will raise the level of supported gems. Cannot support skills that don't come from gems.",
+                    "socket": 2,
+                    "support": true,
+                    "typeLine": "Empower Support",
+                    "verified": false,
+                    "w": 1
+                }
+            ],
+            "sockets": [
+                {
+                    "attr": "S",
+                    "group": 0,
+                    "sColour": "R"
+                },
+                {
+                    "attr": "S",
+                    "group": 0,
+                    "sColour": "R"
+                },
+                {
+                    "attr": "S",
+                    "group": 1,
+                    "sColour": "R"
+                }
+            ],
+            "typeLine": "Royal Sceptre",
+            "verified": false,
+            "w": 2,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "baseType": "Royal Sceptre",
+            "craftedMods": [
+                "+7% to Quality of Socketed Gems"
+            ],
+            "explicitMods": [
+                "+28 to Strength",
+                "36% increased Lightning Damage",
+                "15% increased Critical Strike Chance for Spells"
+            ],
+            "frameType": 2,
+            "h": 3,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9zY2VwdGVyNyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/6b9c62e4c3/scepter7.png",
+            "id": "dc01d6fed7c9ab734beb3bcebb4b07ac72633cfb270468ff2e5b31bcc9a3ca74",
+            "identified": true,
+            "ilvl": 50,
+            "implicitMods": [
+                "24% increased Elemental Damage"
+            ],
+            "inventoryId": "Weapon2",
+            "league": "Scourge",
+            "name": "Soul Roar",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Sceptre",
+                    "values": []
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Physical Damage",
+                    "type": 9,
+                    "values": [
+                        [
+                            "34-80",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Critical Strike Chance",
+                    "type": 12,
+                    "values": [
+                        [
+                            "6.00%",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Attacks per Second",
+                    "type": 13,
+                    "values": [
+                        [
+                            "1.20",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Weapon Range",
+                    "type": 14,
+                    "values": [
+                        [
+                            "11",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "57",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Str",
+                    "values": [
+                        [
+                            "86",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Int",
+                    "values": [
+                        [
+                            "86",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "socketedItems": [
+                {
+                    "additionalProperties": [
+                        {
+                            "displayMode": 2,
+                            "name": "Experience",
+                            "progress": 0.63,
+                            "type": 20,
+                            "values": [
+                                [
+                                    "141800093/226854909",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "baseType": "Enlighten Support",
+                    "colour": "I",
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "This Gem gains 100% increased Experience"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0VubGlnaHRlbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/05a949e270/Enlighten.png",
+                    "id": "348ebb7985b96584131125f3416d4c11f6d314b5e47f0315cd5102acdde4e249",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Exceptional, Support",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports any skill gem. Once this gem reaches level 2 or above, will apply a mana multiplier to supported gems. Cannot support skills that don't come from gems.",
+                    "socket": 0,
+                    "support": true,
+                    "typeLine": "Enlighten Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "additionalProperties": [
+                        {
+                            "displayMode": 2,
+                            "name": "Experience",
+                            "progress": 0.54,
+                            "type": 20,
+                            "values": [
+                                [
+                                    "121680329/226854909",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "baseType": "Empower Support",
+                    "colour": "S",
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "This Gem gains 100% increased Experience"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0VtcG93ZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c2b1b38b15/Empower.png",
+                    "id": "8f8ee420cf69011706f2eb4e87e441b312a8f8b884d747f05371ecad509792ad",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Exceptional, Support",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "130%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports any skill gem. Once this gem reaches level 2 or above, will raise the level of supported gems. Cannot support skills that don't come from gems.",
+                    "socket": 1,
+                    "support": true,
+                    "typeLine": "Empower Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "additionalProperties": [
+                        {
+                            "displayMode": 2,
+                            "name": "Experience",
+                            "progress": 0.54,
+                            "type": 20,
+                            "values": [
+                                [
+                                    "121680329/226854909",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "baseType": "Empower Support",
+                    "colour": "S",
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "This Gem gains 100% increased Experience"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0VtcG93ZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c2b1b38b15/Empower.png",
+                    "id": "54dd7b2f68525ecfae291a73b06ac41417bef05fec5f16ee78432d56d5a0b269",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Exceptional, Support",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "130%",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+20%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "1",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Supports any skill gem. Once this gem reaches level 2 or above, will raise the level of supported gems. Cannot support skills that don't come from gems.",
+                    "socket": 2,
+                    "support": true,
+                    "typeLine": "Empower Support",
+                    "verified": false,
+                    "w": 1
+                }
+            ],
+            "sockets": [
+                {
+                    "attr": "I",
+                    "group": 0,
+                    "sColour": "B"
+                },
+                {
+                    "attr": "S",
+                    "group": 1,
+                    "sColour": "R"
+                },
+                {
+                    "attr": "S",
+                    "group": 2,
+                    "sColour": "R"
+                }
+            ],
+            "typeLine": "Royal Sceptre",
+            "verified": false,
+            "w": 2,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "baseType": "Quicksilver Flask",
+            "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+            "enchantMods": [
+                "Used when Charges reach full"
+            ],
+            "explicitMods": [
+                "18% increased Duration",
+                "52% reduced Effect of Curses on you during Flask Effect"
+            ],
+            "frameType": 1,
+            "h": 2,
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3Mvc3ByaW50IiwidyI6MSwiaCI6Miwic2NhbGUiOjEsImxldmVsIjoxLCJmaSI6dHJ1ZX1d/3f8edd74f2/sprint.png",
+            "id": "6d7f82aada5cf4961db7e8cae02414bb98e7c5c3434795ea03be0215b52c1b4b",
+            "identified": true,
+            "ilvl": 57,
+            "inventoryId": "Flask",
+            "league": "Scourge",
+            "name": "",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Quality",
+                    "type": 6,
+                    "values": [
+                        [
+                            "+20%",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Lasts {0} Seconds",
+                    "values": [
+                        [
+                            "8.30",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Consumes {0} of {1} Charges on use",
+                    "values": [
+                        [
+                            "30",
+                            0
+                        ],
+                        [
+                            "60",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Currently has {0} Charges",
+                    "values": [
+                        [
+                            "60",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "36",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Investigator's Quicksilver Flask of the Curlew",
+            "utilityMods": [
+                "40% increased Movement Speed"
+            ],
+            "verified": false,
+            "w": 1,
+            "x": 4,
+            "y": 0
+        },
+        {
+            "baseType": "Eternal Life Flask",
+            "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+            "explicitMods": [
+                "119% more Recovery if used while on Low Life",
+                "Grants Immunity to Bleeding for 6 seconds if used while Bleeding\nGrants Immunity to Corrupted Blood for 6 seconds if used while affected by Corrupted Blood"
+            ],
+            "frameType": 1,
+            "h": 2,
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvbGlmZWZsYXNrMTIiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/7be2c09015/lifeflask12.png",
+            "id": "72942792666374a6bf8da8759b8a2d64166da5501289ee48793461c284c15342",
+            "identified": true,
+            "ilvl": 85,
+            "inventoryId": "Flask",
+            "league": "Scourge",
+            "name": "",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Quality",
+                    "type": 6,
+                    "values": [
+                        [
+                            "+20%",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Recovers {0} Life over {1} Seconds",
+                    "values": [
+                        [
+                            "2496",
+                            1
+                        ],
+                        [
+                            "2",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Consumes {0} of {1} Charges on use",
+                    "values": [
+                        [
+                            "15",
+                            0
+                        ],
+                        [
+                            "45",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Currently has {0} Charges",
+                    "values": [
+                        [
+                            "45",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "65",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Careful Eternal Life Flask of Sealing",
+            "verified": false,
+            "w": 1,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "baseType": "Stibnite Flask",
+            "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+            "enchantMods": [
+                "Used when Charges reach full"
+            ],
+            "explicitMods": [
+                "Grants Immunity to Ignite for 4 seconds if used while Ignited\nRemoves all Burning when used",
+                "Gain Unholy Might during Flask Effect"
+            ],
+            "flavourText": [
+                "And from the ashes he rose, like a black cloud.\r",
+                "The Sin of one became the Sin of many."
+            ],
+            "frameType": 3,
+            "h": 2,
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvU2luIiwidyI6MSwiaCI6Miwic2NhbGUiOjEsImxldmVsIjoxLCJmaSI6dHJ1ZX1d/7a7532d9fb/Sin.png",
+            "id": "e19eae7b70bc54d44ee7df2a9a2456102d2499c42a9ec0616fca663d1f74dc2e",
+            "identified": true,
+            "ilvl": 73,
+            "implicitMods": [
+                "Creates a Smoke Cloud on Use"
+            ],
+            "inventoryId": "Flask",
+            "league": "Scourge",
+            "name": "Sin's Rebirth",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Quality",
+                    "type": 6,
+                    "values": [
+                        [
+                            "+20%",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Lasts {0} Seconds",
+                    "values": [
+                        [
+                            "9.60",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Consumes {0} of {1} Charges on use",
+                    "values": [
+                        [
+                            "40",
+                            0
+                        ],
+                        [
+                            "60",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Currently has {0} Charges",
+                    "values": [
+                        [
+                            "60",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "40",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Stibnite Flask",
+            "utilityMods": [
+                "20% more Evasion Rating"
+            ],
+            "verified": false,
+            "w": 1,
+            "x": 1,
+            "y": 0
+        },
+        {
+            "baseType": "Topaz Ring",
+            "craftedMods": [
+                "45% reduced Effect of Chill on you"
+            ],
+            "explicitMods": [
+                "+42 to Strength",
+                "+54 to Evasion Rating",
+                "+77 to maximum Life",
+                "+33 to maximum Mana",
+                "+38% to Fire Resistance"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUmluZ3MvUmluZzUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6f90cd3c4b/Ring5.png",
+            "id": "577369a061614767414f03d52d1f0f7a926712c6efeb51eb6fa6c75fb6d3d811",
+            "identified": true,
+            "ilvl": 76,
+            "implicitMods": [
+                "+30% to Lightning Resistance"
+            ],
+            "inventoryId": "Ring2",
+            "league": "Scourge",
+            "name": "Grim Nail",
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "52",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Topaz Ring",
+            "verified": false,
+            "w": 1,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "baseType": "Quartz Flask",
+            "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+            "enchantMods": [
+                "Used when Charges reach full"
+            ],
+            "explicitMods": [
+                "19% increased Charge Recovery",
+                "43% reduced Effect of Curses on you during Flask Effect"
+            ],
+            "frameType": 1,
+            "h": 2,
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvcGhhc2VmbGFzazAxIiwidyI6MSwiaCI6Miwic2NhbGUiOjEsImxldmVsIjoxLCJmaSI6dHJ1ZX1d/2900491949/phaseflask01.png",
+            "id": "7cab20ef439ec9d475d2ad29cbf93e38247de911262f05c94498e521bc28c644",
+            "identified": true,
+            "ilvl": 41,
+            "inventoryId": "Flask",
+            "league": "Scourge",
+            "name": "",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Quality",
+                    "type": 6,
+                    "values": [
+                        [
+                            "+20%",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Lasts {0} Seconds",
+                    "values": [
+                        [
+                            "7.20",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Consumes {0} of {1} Charges on use",
+                    "values": [
+                        [
+                            "30",
+                            0
+                        ],
+                        [
+                            "60",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 3,
+                    "name": "Currently has {0} Charges",
+                    "values": [
+                        [
+                            "60",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "27",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Constant Quartz Flask of the Mockingbird",
+            "utilityMods": [
+                "+10% chance to Suppress Spell Damage",
+                "Phasing"
+            ],
+            "verified": false,
+            "w": 1,
+            "x": 2,
+            "y": 0
+        },
+        {
+            "baseType": "Sapphire Ring",
+            "craftedMods": [
+                "58% reduced Effect of Chill on you"
+            ],
+            "explicitMods": [
+                "+23 to maximum Energy Shield",
+                "+71 to maximum Life",
+                "2% increased maximum Life",
+                "+34 to maximum Mana",
+                "+15% to all Elemental Resistances"
+            ],
+            "frameType": 2,
+            "h": 1,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUmluZ3MvUmluZzYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/74a5d719fd/Ring6.png",
+            "id": "e43087db542e43935d1377b3649a3e1890819195c7d64c95a2b7e46a1b2e56a0",
+            "identified": true,
+            "ilvl": 70,
+            "implicitMods": [
+                "+30% to Cold Resistance"
+            ],
+            "inventoryId": "Ring",
+            "league": "Scourge",
+            "name": "Morbid Twirl",
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "values": [
+                        [
+                            "48",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "typeLine": "Sapphire Ring",
+            "verified": false,
+            "w": 1,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "baseType": "Slink Boots",
+            "enchantMods": [
+                "80% chance to Avoid being Stunned if you've Killed Recently"
+            ],
+            "explicitMods": [
+                "+26% chance to Suppress Spell Damage",
+                "180% increased Evasion Rating",
+                "+68 to maximum Life",
+                "30% increased Movement Speed"
+            ],
+            "flavourText": [
+                "\"Those who dance are considered insane \r",
+                "by those who cannot hear the music.\"\r",
+                "- Atziri, Queen of the Vaal"
+            ],
+            "frameType": 3,
+            "h": 2,
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb290cy9BdHppcmlzU3RlcCIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/ec85575514/AtzirisStep.png",
+            "id": "7c8948ddaf22703c0d4f33eaa2e22a6364e1e868e8f178379ae7bc30f078450e",
+            "identified": true,
+            "ilvl": 72,
+            "incubatedItem": {
+                "level": 68,
+                "name": "Breach Item",
+                "progress": 10186,
+                "total": 10530
+            },
+            "inventoryId": "Boots",
+            "league": "Scourge",
+            "name": "Atziri's Step",
+            "properties": [
+                {
+                    "displayMode": 0,
+                    "name": "Quality",
+                    "type": 6,
+                    "values": [
+                        [
+                            "+20%",
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 0,
+                    "name": "Evasion Rating",
+                    "type": 17,
+                    "values": [
+                        [
+                            "798",
+                            1
+                        ]
+                    ]
+                }
+            ],
+            "requirements": [
+                {
+                    "displayMode": 0,
+                    "name": "Level",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "70",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Dex",
+                    "values": [
+                        [
+                            "120",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "displayMode": 1,
+                    "name": "Int",
+                    "suffix": "(gem)",
+                    "values": [
+                        [
+                            "68",
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "socketedItems": [
+                {
+                    "additionalProperties": [
+                        {
+                            "displayMode": 2,
+                            "name": "Experience",
+                            "progress": 1,
+                            "type": 20,
+                            "values": [
+                                [
+                                    "28189/28189",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "baseType": "Flame Dash",
+                    "colour": "I",
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Deals 10 to 14 Fire Damage",
+                        "Deals 25.1 Base Fire Damage per second",
+                        "Base duration is 4.00 seconds",
+                        "1% increased Cooldown Recovery Rate"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGFtZURhc2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6816a20975/FlameDash.png",
+                    "id": "96fe65907a18fad601c8fef741ca9e2c8b27ef100cfc8c78de5e2c412f007a30",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "nextLevelRequirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "17",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "43",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Spell, Movement, Duration, Fire, Travel, Blink",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "2",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost",
+                            "values": [
+                                [
+                                    "9 Mana",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cooldown Time",
+                            "values": [
+                                [
+                                    "3.50 sec (3 uses)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cast Time",
+                            "values": [
+                                [
+                                    "0.80 sec",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Critical Strike Chance",
+                            "values": [
+                                [
+                                    "6.00%",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "13",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "35",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Teleport to a location, damaging enemies and leaving a trail of burning ground in your wake. Shares a cooldown with other Blink skills.",
+                    "socket": 0,
+                    "support": false,
+                    "typeLine": "Flame Dash",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Arctic Armour",
+                    "colour": "D",
+                    "corrupted": true,
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "Base duration is 4.40 seconds",
+                        "12% increased Skill Effect Duration",
+                        "Buff grants 13% less Physical Damage taken from Hits while stationary",
+                        "Buff grants 12% less Fire Damage taken from Hits while stationary",
+                        "Chill Enemy for 0.5 seconds when Hit, reducing their Action Speed by 30%",
+                        "Buff grants Immunity to Freeze"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JY2VTaGllbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/22044364a7/IceShield.png",
+                    "id": "d356a622bc130314386ea4fc88327fa7c7ad3968ea74c08ed5064ac9643f2a0f",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Spell, Duration, Cold",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "20 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Reservation",
+                            "values": [
+                                [
+                                    "25% Mana",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cooldown Time",
+                            "values": [
+                                [
+                                    "1.00 sec",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cast Time",
+                            "values": [
+                                [
+                                    "Instant",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+12%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "70",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "98",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "68",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Conjures an icy barrier that chills enemies when they hit you. You drop chilled ground while moving, and take less Fire and Physical damage while stationary.",
+                    "socket": 1,
+                    "support": false,
+                    "typeLine": "Arctic Armour",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "additionalProperties": [
+                        {
+                            "displayMode": 2,
+                            "name": "Experience",
+                            "progress": 1,
+                            "type": 20,
+                            "values": [
+                                [
+                                    "583786/583786",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "baseType": "Cast on Death Support",
+                    "colour": "D",
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "32% more Damage while Dead",
+                        "You cannot Cast Supported Triggerable Spells directly",
+                        "100% chance to Trigger Supported Non-Minion Spells on Death",
+                        "Supported Skills Cost nothing"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0Nhc3RPbkRlYXRoIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7a8f023bcf/CastOnDeath.png",
+                    "id": "3b53bd29b1df0909290ceecbf4b6a1596573a7ff0b1d699257ba2944c781aa35",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "nextLevelRequirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "44",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "45",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "31",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Support, Spell, Trigger",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "3",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cost & Reservation Multiplier",
+                            "values": [
+                                [
+                                    "0%",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "42",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Dex",
+                            "values": [
+                                [
+                                    "43",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 1,
+                            "name": "Int",
+                            "values": [
+                                [
+                                    "30",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Each supported spell skill will be triggered when you die. Cannot support skills used by totems, traps, or mines. Vaal skills, channelling skills, and skills with a reservation cannot be triggered.",
+                    "socket": 2,
+                    "support": true,
+                    "typeLine": "Cast on Death Support",
+                    "verified": false,
+                    "w": 1
+                },
+                {
+                    "baseType": "Portal",
+                    "colour": "G",
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "explicitMods": [
+                        "3% increased Cast Speed"
+                    ],
+                    "frameType": 4,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Qb3J0YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/179ddc4cbd/Portal.png",
+                    "id": "c71dcb644ec19fb6e955f1d0a8c8729ffd1a0c9bb13686db07f6fd7c37ffb3d0",
+                    "identified": true,
+                    "ilvl": 0,
+                    "name": "",
+                    "properties": [
+                        {
+                            "displayMode": 0,
+                            "name": "Spell",
+                            "values": []
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "type": 5,
+                            "values": [
+                                [
+                                    "1 (Max)",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Cast Time",
+                            "values": [
+                                [
+                                    "2.50 sec",
+                                    0
+                                ]
+                            ]
+                        },
+                        {
+                            "displayMode": 0,
+                            "name": "Quality",
+                            "type": 6,
+                            "values": [
+                                [
+                                    "+1%",
+                                    1
+                                ]
+                            ]
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "displayMode": 0,
+                            "name": "Level",
+                            "values": [
+                                [
+                                    "10",
+                                    0
+                                ]
+                            ]
+                        }
+                    ],
+                    "secDescrText": "Creates a portal to the current area's town.",
+                    "socket": 3,
+                    "support": false,
+                    "typeLine": "Portal",
+                    "verified": false,
+                    "w": 1
+                }
+            ],
+            "sockets": [
+                {
+                    "attr": "I",
+                    "group": 0,
+                    "sColour": "B"
+                },
+                {
+                    "attr": "D",
+                    "group": 0,
+                    "sColour": "G"
+                },
+                {
+                    "attr": "D",
+                    "group": 1,
+                    "sColour": "G"
+                },
+                {
+                    "attr": "D",
+                    "group": 1,
+                    "sColour": "G"
+                }
+            ],
+            "typeLine": "Slink Boots",
+            "verified": false,
+            "w": 2,
+            "x": 0,
+            "y": 0
+        }
+    ]
+}
